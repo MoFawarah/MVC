@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\user\\enquires.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\user\\enquires.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\user\\pathdesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\user\\pathdesign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|c:\\users\\orange\\desktop\\cs mess up\\testing\\testing\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8523DA02-0E4F-4EF5-BA9C-E7BEE7141F52}|Testing\\Testing.csproj|solutionrelative:testing\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Testing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T21:56:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Testing\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Testing\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:18:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Testing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Testing\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:38:43.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\About.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\User\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\About.cshtml",
+              "RelativeToolTip": "Testing\\Views\\User\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T22:16:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\User\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\Contact.cshtml",
+              "RelativeToolTip": "Testing\\Views\\User\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T22:16:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enquires.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\Enquires.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\User\\Enquires.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\Enquires.cshtml",
+              "RelativeToolTip": "Testing\\Views\\User\\Enquires.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T22:15:27.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PathDesign.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\PathDesign.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\User\\PathDesign.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\User\\PathDesign.cshtml",
+              "RelativeToolTip": "Testing\\Views\\User\\PathDesign.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T22:16:16.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Testing\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T21:53:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Testing\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Global.asax.cs",
+              "RelativeToolTip": "Testing\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:24:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Testing\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Testing\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:48:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Testing\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T21:52:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\packages.config",
+              "RelativeDocumentMoniker": "Testing\\packages.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CS mess up\\Testing\\Testing\\packages.config",
+              "RelativeToolTip": "Testing\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-22T08:32:13.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
