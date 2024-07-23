@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>Contact Form</h2>
+    </div>
+    <div class="card-body">
+        @using (Html.BeginForm("SubmitContact", "Home", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" class="form-control" id="name" name="Name" required />
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone Number:</label>
+                <input type="text" class="form-control" id="phone" name="Phone" required />
+            </div>
+            <div class="form-group">
+                <label for="gender">Gender:</label><br />
+                <div class="form-check form-check-inline">
+                    <input type="radio" class="form-check-input" id="male" name="Gender" value="Male" />
+                    <label class="form-check-label" for="male">Male</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input type="radio" class="form-check-input" id="female" name="Gender" value="Female" />
+                    <label class="form-check-label" for="female">Female</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="country">Country:</label>
+                <select id="country" class="form-control" name="Country">
+                    <option value="USA">USA</option>
+                    <option value="Canada">Canada</option>
+                    <option value="UK">UK</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="hobbies">Hobbies:</label><br />
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="reading" name="Hobbies" value="Reading" />
+                    <label class="form-check-label" for="reading">Reading</label>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="traveling" name="Hobbies" value="Traveling" />
+                    <label class="form-check-label" for="traveling">Traveling</label>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="cooking" name="Hobbies" value="Cooking" />
+                    <label class="form-check-label" for="cooking">Cooking</label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        }
+    </div>
+</div>
