@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+@using (Html.BeginForm("Contact", "Home", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Email address</label>
+        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" name="email">
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Select your city</label>
+        <select class="form-control" id="exampleFormControlSelect1" name="selectcity">
+            <option>Ajloun</option>
+            <option>Amman</option>
+            <option>Irbid</option>
+            <option>Aqaba</option>
+            <option>Madaba</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlSelect2">What's your fav food? you can choose many options</label>
+        <select multiple class="form-control" id="exampleFormControlSelect2" name="selectfood">
+            <option>Mansaf</option>
+            <option>Shawarma</option>
+            <option>Fries</option>
+            <option>Burger</option>
+            <option>Coffee</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="exampleFormControlTextarea1">What can we improve?</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="feedback"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+
+
+@if (ViewBag.Email != null)
+{
+    <p>Email: @ViewBag.Email</p>
+}
+
+@if (ViewBag.City != null)
+{
+    <p>City: @ViewBag.City</p>
+}
+
+@if (ViewBag.Feedback != null)
+{
+    <p>Feedback: @ViewBag.Feedback</p>
+}
+
+
+
+@if (ViewBag.Food != null)
+{
+    <p>Fav Food</p>
+    <ul>
+        @foreach (var item in ViewBag.Food)
+        {
+            <li>@item</li>
+        }
+    </ul>
+
+}
