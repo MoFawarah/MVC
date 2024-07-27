@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\Task 02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F41FA6F-F18A-4B9A-9A53-815F2A1E27C7}|Task 02\\Task 02.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\Task 02\\task 02\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4F41FA6F-F18A-4B9A-9A53-815F2A1E27C7}|Task 02\\Task 02.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\task 02\\task 02\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F41FA6F-F18A-4B9A-9A53-815F2A1E27C7}|Task 02\\Task 02.csproj|solutionrelative:task 02\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F41FA6F-F18A-4B9A-9A53-815F2A1E27C7}|Task 02\\Task 02.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\task 02\\task 02\\views\\home\\contactresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4F41FA6F-F18A-4B9A-9A53-815F2A1E27C7}|Task 02\\Task 02.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\Task 02\\task 02\\views\\home\\contactresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F41FA6F-F18A-4B9A-9A53-815F2A1E27C7}|Task 02\\Task 02.csproj|solutionrelative:task 02\\views\\home\\contactresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Task 02\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T20:31:02.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:31:02.838Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Task 02\\Views\\Home\\ContactResult.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T20:30:32.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:30:32.984Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Task 02\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:29:04.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:29:04.569Z"
             },
             {
               "$type": "Document",
