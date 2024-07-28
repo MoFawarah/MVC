@@ -103,6 +103,28 @@ namespace messup02_28_7.Controllers
         }
 
 
+        // Get >> details
+        public ActionResult details(int id) {
+
+            user newUser = db.users.Find(id);
+
+            if (newUser == null)
+            {
+                return HttpNotFound();
+            }
+
+            return View(newUser);
+        
+        }
+
+        protected override void Dispose (bool disposing)
+        {
+
+            db.Dispose();
+            base.Dispose (disposing);
+        } 
+
+
 
     }
 }
