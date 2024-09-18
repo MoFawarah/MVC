@@ -35,6 +35,8 @@ namespace messup02_28_7.Controllers
         public ActionResult Create(user newUser)
         {
 
+
+
             if (ModelState.IsValid)
             {
 
