@@ -1,4 +1,6 @@
-﻿namespace SchoolSystemCodeFirst.Models
+﻿using System.Collections.Generic;
+
+namespace SchoolSystemCodeFirst.Models
 {
     public class Teacher
     {
@@ -7,5 +9,8 @@
         public string TeacherName { get; set; }
 
         public int TeacherAge { get; set; }
+
+        public virtual ICollection<Course> Courses { get; set; }  // 1-to-M relationship
+
     }
 }

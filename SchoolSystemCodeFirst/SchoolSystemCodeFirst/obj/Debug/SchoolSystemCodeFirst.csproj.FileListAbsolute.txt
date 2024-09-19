@@ -83,3 +83,7 @@ C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirs
 C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.pdb
 C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.Migrations.InitialCreate.resources
 C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.csproj.GenerateResource.cache
+C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.Migrations.InitialCreate1.resources
+C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.Migrations.DataInsertion.resources
+C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.Migrations.AddOneToOneRelation.resources
+C:\Users\Orange\Desktop\MVC Tasks\MVC\SchoolSystemCodeFirst\SchoolSystemCodeFirst\obj\Debug\SchoolSystemCodeFirst.Migrations.OneToMany.resources

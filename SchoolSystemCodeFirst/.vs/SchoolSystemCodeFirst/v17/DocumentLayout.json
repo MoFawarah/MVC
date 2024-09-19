@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\migrations\\202409180858014_addonetoonerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\migrations\\202409180858014_addonetoonerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\migrations\\202409180909205_onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\migrations\\202409180909205_onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\views\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\schoolsystemcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\views\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\migrations\\202409180446282_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\migrations\\202409180446282_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\schoolsystemcodefirst\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\schoolsystemcodefirst\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|c:\\users\\orange\\desktop\\mvc tasks\\mvc\\schoolsystemcodefirst\\schoolsystemcodefirst\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\schoolsystemcodefirst\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F9BD8E-361F-4C72-A3B2-BF918B96803B}|SchoolSystemCodeFirst\\SchoolSystemCodeFirst.csproj|solutionrelative:schoolsystemcodefirst\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +74,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:10:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:58:51.093Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -58,80 +120,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "202409180446282_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\202409180446282_InitialCreate.cs",
-              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Migrations\\202409180446282_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\202409180446282_InitialCreate.cs",
-              "RelativeToolTip": "SchoolSystemCodeFirst\\Migrations\\202409180446282_InitialCreate.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:46:41.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "SchoolSystemCodeFirst\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:45:47.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Web.config",
-              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Web.config",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Web.config",
-              "RelativeToolTip": "SchoolSystemCodeFirst\\Web.config",
-              "ViewState": "AQIAADMAAAAAAAAAAAAgwEcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-18T04:44:24.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
-              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwA0AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:38:48.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Assignment.cs",
-              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\Assignment.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Assignment.cs",
-              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\Assignment.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:20:49.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Teacher.cs",
-              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:19:36.407Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Details.cshtml",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Views\\Teachers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Details.cshtml",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Views\\Teachers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:56:15.771Z",
               "EditorCaption": ""
             },
             {
@@ -142,9 +139,165 @@
               "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Student.cs",
               "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T04:18:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:59:47.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202409180909205_OneToMany.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\202409180909205_OneToMany.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Migrations\\202409180909205_OneToMany.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\202409180909205_OneToMany.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Migrations\\202409180909205_OneToMany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:09:24.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202409180858014_AddOneToOneRelation.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\202409180858014_AddOneToOneRelation.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Migrations\\202409180858014_AddOneToOneRelation.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Migrations\\202409180858014_AddOneToOneRelation.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Migrations\\202409180858014_AddOneToOneRelation.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:58:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:10:23.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:59:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Views\\Teachers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Views\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Views\\Teachers\\Create.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:48:33.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:48:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "studentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\studentDetails.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\studentDetails.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\studentDetails.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\studentDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:24:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Web.config",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Web.config",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Web.config",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T08:46:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:19:36.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:38:48.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "SchoolSystemCodeFirst\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\MVC\\SchoolSystemCodeFirst\\SchoolSystemCodeFirst\\Models\\Assignment.cs",
+              "RelativeToolTip": "SchoolSystemCodeFirst\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:20:49.476Z",
               "EditorCaption": ""
             }
           ]
