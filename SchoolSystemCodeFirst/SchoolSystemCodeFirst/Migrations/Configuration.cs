@@ -1,9 +1,8 @@
 ﻿namespace SchoolSystemCodeFirst.Migrations
 {
-    using System;
-    using System.Data.Entity;
+    using SchoolSystemCodeFirst.Models;
     using System.Data.Entity.Migrations;
-    using System.Linq;
+
 
     internal sealed class Configuration : DbMigrationsConfiguration<SchoolSystemCodeFirst.Models.SchoolContext>
     {
@@ -12,12 +11,20 @@
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(SchoolSystemCodeFirst.Models.SchoolContext context)
+        protected override void Seed(SchoolContext context)
         {
-            //  This method will be called after migrating to the latest version.
 
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method
-            //  to avoid creating duplicate seed data.
+
+
+            // Adding new Student records
+            context.Students.AddOrUpdate(
+            s => s.StudentName, // Assuming StudentName should be unique for demo purposes
+            new Student { StudentName = "John Doe", StudentAge = 20 },
+            new Student { StudentName = "Jane Smith", StudentAge = 22 }
+        );
+
+
+            context.SaveChanges();
         }
     }
 }
